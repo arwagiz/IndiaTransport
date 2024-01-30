@@ -58,12 +58,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
 -
-
-### Digitalisation <a name="gender"></a>
+### Gender an Equality <a name="digitalisation"></a>
 
 -
 
-### Gender an Equality <a name="digitalisation"></a>
+### Digitalisation <a name="gender"></a>
 
 -
 
